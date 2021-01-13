@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">provaAppContagem</string>
+    <string name="contagem">Contagem:</string>
+    <string name="um_positivo">+1</string>
+    <string name="um_negativo">-1</string>
+    <string name="zerar_contagem">ZERAR CONTAGEM</string>
 </resources>
