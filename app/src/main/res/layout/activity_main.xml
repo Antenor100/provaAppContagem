@@ -23,7 +23,8 @@
             android:background="#74ED28" android:textAlignment="center"
             android:textColor="#FFFFFF" tools:text="0" android:textSize="30sp"
             app:layout_constraintTop_toTopOf="parent" app:layout_constraintEnd_toEndOf="parent"
-            android:layout_marginTop="16dp" android:layout_marginEnd="16dp" android:autofillHints=""/>
+            android:layout_marginTop="16dp" android:layout_marginEnd="16dp" android:autofillHints=""
+            android:editable="false" android:enabled="false" android:text="0"/>
     <Button
             android:text="@string/um_positivo"
             android:layout_width="match_parent"
